@@ -1,2 +1,2 @@
 # DESCRIPTION
-Hangman game creating in python :)
+A hanging game created using Python.
